@@ -1,0 +1,6 @@
+/* Block editor: match the site's typography and colours. */
+@import url("https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap");
+body{font-family:"Instrument Sans",system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;color:#2c2d2d;font-size:17px;line-height:1.7}
+h1,h2,h3,h4{font-weight:600;letter-spacing:-.015em;line-height:1.2}
+a{color:#243565}
+.wp-block-button__link{background:#243565;border-radius:6px;font-weight:600}
